@@ -1,0 +1,29 @@
+.footer {
+  background-color: black;
+  color: white;
+}
+
+.icons ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin: 2rem 2rem 0 0;
+  list-style: none;
+}
+
+li a i {
+  color: green;
+  font-size: 2rem;
+}
+
+.author {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.author i {
+  color: red;
+}

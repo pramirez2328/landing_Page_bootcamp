@@ -1,0 +1,29 @@
+.container2 {
+  color: black;
+}
+
+h2 {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 4rem 2rem 0;
+  width: 240px;
+  height: 260px;
+  border: 1px solid rgb(190, 189, 189);
+  box-shadow: 2px 2px 3px rgb(155, 150, 150);
+}
+
+.svg-img {
+  width: 140px;
+}

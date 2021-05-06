@@ -1,0 +1,19 @@
+.container1 {
+  color: white;
+}
+
+#button {
+  background-color: rgb(4, 230, 76);
+  padding: 16px 32px;
+  color: white;
+  border-radius: 32px;
+}
+
+#button:hover {
+  background-color: rgb(241, 245, 242);
+  color: black;
+}
+
+#description {
+  margin-bottom: 2rem;
+}

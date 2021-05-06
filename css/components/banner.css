@@ -1,0 +1,9 @@
+.banner {
+  height: 600px;
+  background-image: url("../../images/background.png");
+  margin: 0;
+  background-size: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
